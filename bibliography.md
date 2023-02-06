@@ -6,7 +6,10 @@
 - many examples of Scrum being used in real life : [Scrum examples](https://appliedframeworks.com/scrum-case-studies-examples/)
 - pictures : [Scrum Life Cycle](https://www.scrum.org/resources/what-is-scrum),[Scrum Meeting 1](https://number8.com/5-types-of-scrum-meetings/) and [Scrum Meeting 2](https://otter.ai/blog/how-to-run-a-scrum-meeting) 
 
-### MEMBER 3 :
+### MEMBER 3 : (Jeremy Pawlus)
+- simplilearn, Top Scrum Values and Principles and How to Use Them in Your Work Immediately (https://www.simplilearn.com/scrum-values-and-principles-article)
+- wrike, What Is the Main Purpose of a Sprint Review? (https://www.wrike.com/scrum-guide/faq/what-is-the-main-purpose-of-a-sprint-review/)
+- pictures : [Scrum values](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smartgecko.info%2Fchangements-scrum-guide-2016-scrum-values%2F&psig=AOvVaw3a9dukgvJaqTEVGAdN3qWw&ust=1675803165118000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDd_NHjgf0CFQAAAAAdAAAAABAD), [Scrum principles](https://www.google.com/url?sa=i&url=https%3A%2F%2Flucidspark.com%2Ffr%2Fblog%2Fqu-est-ce-que-le-scrum&psig=AOvVaw1O-Rzl65DN4HnQwPLDaSNL&ust=1675803211132000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCND_ns_jgf0CFQAAAAAdAAAAABAE) and [Sprint reviews](https://miro.medium.com/max/1400/1*8IV8O8GzkVfy7ZntC90udQ.png)
 
 ### MEMBER 4 : (Hassan Ballout)
 - [Scrum Roles](https://www.scrum.org/resources/blog/how-do-3-scrum-roles-promote-self-organization)
