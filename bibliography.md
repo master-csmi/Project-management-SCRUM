@@ -4,7 +4,8 @@
 - definition of Scrum and useful Scrum Guide : [Scrum Guide](https://scrumguides.org) and the [official Scrum website](https://www.scrum.org)
 - business review on Scrum : [Scrum insight](https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html)
 - many examples of Scrum being used in real life : [Scrum examples](https://appliedframeworks.com/scrum-case-studies-examples/)
-- picture(s) : [Scrum Life Cycle](https://www.scrum.org/resources/what-is-scrum)
+- pictures : [Scrum Life Cycle](https://www.scrum.org/resources/what-is-scrum),[Scrum Meeting 1](https://number8.com/5-types-of-scrum-meetings/) and [Scrum Meeting 2](https://otter.ai/blog/how-to-run-a-scrum-meeting) 
+
 ### MEMBER 3 :
 
 ### MEMBER 4 :
