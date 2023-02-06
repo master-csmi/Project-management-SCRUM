@@ -8,4 +8,7 @@
 
 ### MEMBER 3 :
 
-### MEMBER 4 :
+### MEMBER 4 : (Hassan Ballout)
+- [Scrum Roles](https://www.scrum.org/resources/blog/how-do-3-scrum-roles-promote-self-organization)
+- [Sprint Retrospective](https://www.scrum.org/resources/what-is-a-sprint-retrospective)
+- pictures : [Scrum Team](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-01/scrum%20team.png) 
