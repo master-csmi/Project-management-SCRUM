@@ -24,9 +24,9 @@ A brief description of the Agile framework known as Scrum.
 
 ### Scrum's life cycle:
 
-  Member 1: Sprint Planning
-  
   Member 2: Sprint
+
+  Member 1: Sprint Planning
   
   Member 3: Sprint Review
   
