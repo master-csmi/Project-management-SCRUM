@@ -17,36 +17,36 @@ A brief description of the Agile framework known as Scrum.
 
 ### Introduction:
 
-  Member 1: Definition of the Agile framework and the Scrum method
+  Seithondji Dieudonné: Definition of the Agile framework and the Scrum method
   
-  Member 2: Explanation of the objectives
+  Ariel: Explanation of the objectives
 
 ### Principles of the method:
 
-  Member 3: Values, fundamental principles and key components
+  Jérémy: Values, fundamental principles and key components
   
-  Member 4: Different roles in Scrum (Product Owner, Scrum Master, Development Team)
+  Hassan: Different roles in Scrum (Product Owner, Scrum Master, Development Team)
 
 ### Scrum's life cycle:
 
-  Member 2: Sprint
+  Ariel: Sprint
 
-  Member 1: Sprint Planning
+  Seithondji Dieudonné: Sprint Planning
   
-  Member 3: Sprint Review
+  Jérémy: Sprint Review
   
-  Member 4: Sprint Retrospective
+  Hassan: Sprint Retrospective
 
 ### Concrete usage in applied mathematics:
 
-  Member 1: Insight on how Scrum is used in real life problems including applied mathematics
+  Seithondji Dieudonné: Insight on how Scrum is used in real life problems including applied mathematics
   
-  Member 2: Result analysis : advantages and inconveniences encountered
+  Ariel: Result analysis : advantages and inconveniences encountered
 
 ### Conclusion:
 
-  Member 3: Summary of the key points
+  Jérémy: Summary of the key points
   
-  Member 4: Advantages and Inconveniences  
+  Hassan: Advantages and Inconveniences  
   
   All members: Personal feedback on the utility and relevance of Scrum's usage in different environments
