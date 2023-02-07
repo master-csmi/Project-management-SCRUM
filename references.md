@@ -18,3 +18,7 @@
 - [Scrum Roles](https://www.scrum.org/resources/blog/how-do-3-scrum-roles-promote-self-organization)
 - [Sprint Retrospective](https://www.scrum.org/resources/what-is-a-sprint-retrospective)
 - pictures : [Scrum Team](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-01/scrum%20team.png) 
+
+
+### Other links :
+- [Google Slides of the Presentation](https://docs.google.com/presentation/d/11yZyK2MQeHWj8FHIHCOtMSHNkSdI7dhF12u6KVUMCLA/edit#slide=id.g2ad9c489b3bb456_0)
