@@ -3,8 +3,13 @@ M1-CSMI-2022-2023
 
 ## Team members 
 
-Jérémy, Hassan, Seithondji Dieudonné, Ariel
+  Member 1: Seithondji Dieudonné
 
+  Member 2: Ariel
+
+  Member 3: Jérémy
+
+  Member 4: Hassan
 
 A brief description of the Agile framework known as Scrum.
 

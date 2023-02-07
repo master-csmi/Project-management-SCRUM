@@ -1,4 +1,7 @@
-### MEMBER 1 : 
+### MEMBER 1 : (Seithondji Dieudonné Medessi)
+- [Scrum software development (Wikipedia)](https://en.wikipedia.org/wiki/Scrum_(software_development))
+- [Agile software development (Wikipedia)](https://en.wikipedia.org/wiki/Agile_software_development)
+- pictures : [Scrum framework](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2021-01/Scrumorg-Scrum-Framework-tabloid.pdf)
 
 ### MEMBER 2 : (Ariel De Vora)
 - definition of Scrum and useful Scrum Guide : [Scrum Guide](https://scrumguides.org) and the [official Scrum website](https://www.scrum.org)
